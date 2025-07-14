@@ -65,20 +65,20 @@ python generate_persona.py
 ```
 
 ### 6.When prompted, paste a full Reddit user profile URL, for example:
-  -https://www.reddit.com/user/kojied/
-  -The script will:
-  -Fetch latest 20 posts & comments
-  -Generate a structured persona using Ollama
-  -Save the result in the /personas/ folder as kojied.txt
+  - https://www.reddit.com/user/kojied/
+  - The script will:
+  - Fetch latest 20 posts & comments
+  - Generate a structured persona using Ollama
+  - Save the result in the /personas/ folder as kojied.txt
 
-### 7. Sample Output Included
-  -This repo already includes sample persona files as requested:
-  -personas/kojied.txt
-  -personas/Hungry-Move-6603.txt
-  -Each file contains:
-  -User details (age, role, location, tier)
-  -Behavior, habits, frustrations
-  -Motivations, personality type
-  -Goals & needs
-  -Quoted evidence for each insight
+### 7. Sample Output Included:
+  - This repo already includes sample persona files as requested:
+  - personas/kojied.txt
+  - personas/Hungry-Move-6603.txt
+  - Each file contains:
+  - User details (age, role, location, tier)
+  - Behavior, habits, frustrations
+  - Motivations, personality type
+  - Goals & needs
+  - Quoted evidence for each insight
 
