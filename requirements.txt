@@ -1,0 +1,4 @@
+praw==7.7.1
+
+# Ollama must be installed separately from https://ollama.com
+# Ollama Python client works via local model backend, not pip
