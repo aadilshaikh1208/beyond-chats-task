@@ -54,7 +54,7 @@ https://ollama.com
   REDDIT_USER_AGENT = "persona-bot"
 ```
 
-### 4.  Pull an Ollama Model (For example I have used gemma3:1b model if Ollama)
+### 4.  Pull an Ollama Model (For example I have used gemma3:1b model of Ollama)
   -Make sure you have Ollama installed on your system.
   ```bash
   ollama pull gemma3:1b
